@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 Practical use of classification models for credit card fraud detection.
 
 The performance results were the following:
